@@ -4,7 +4,7 @@ import pprint
 client = MongoClient()
 db = client.Mini3
 pictures=db.pictures
-
+# Credit to http://api.mongodb.com/python/current/examples/aggregation.html
 while(1):
     a=input("Please select your function: 1.Show account of most pictures; 2.Show most popular tags; 3.Search\n")
     if a=="1":
