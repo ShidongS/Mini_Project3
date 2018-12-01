@@ -12,10 +12,10 @@ import io
 from google.cloud import vision
 from google.cloud.vision import types
 # Twitter API credentials
-consumer_key = "kBERBqyuCHyctgtyRHBEzG7T7"
-consumer_secret = "zqzGAYSpf1CHGvLGiwizowRXm0x79MSNE5ycKc7D6aFto8DR7I"
-access_key = "1039252610426044417-L7YoZ3Gdfmkag2qW6XQiCVyhn8Ljl3"
-access_secret = "zM8Q2asrlMFTVKSsTERUIWr37x3IxOeVQ56Xu8fgKTXDH"
+consumer_key = ""
+consumer_secret = ""
+access_key = ""
+access_secret = ""
 
 
 def get_all_tweets():
