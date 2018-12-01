@@ -1,3 +1,5 @@
+# Author - Shidong Sun
+
 from pymongo import MongoClient
 from bson.son import SON
 import pprint
